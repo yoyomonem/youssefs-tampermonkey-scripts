@@ -3,7 +3,7 @@
 // @namespace    https://scratch.mit.edu
 // @namespace    https://github.com/yoyomonem/youssefs-tampermonkey-scripts
 // @version      1.0.1
-// @description  This turns Scratch 2.0 maintenance pages into maintenance pages that are in the style of Scratch 3.0, like how the Scratch 2.0 → 3.0 addon from Scratch Addons does it with instances of https://scratch.mit.edu/500. This only works with the Scratch Discussion Forums, so I recommend you use this userscript with the Scratch 2.0 → 3.0 addon from Scratch Addons.
+// @description  This turns Scratch 2.0 maintenance pages into maintenance pages that are in the style of Scratch 3.0, in a similar manner to how the Scratch 2.0 → 3.0 addon from Scratch Addons does it with instances of https://scratch.mit.edu/500. This only works with the Scratch Discussion Forums, so I recommend you use this userscript with the Scratch 2.0 → 3.0 addon from Scratch Addons.
 // @author       Youssef
 // @match        https://scratch.mit.edu/discuss/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=scratch.mit.edu
