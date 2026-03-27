@@ -15,7 +15,7 @@
   "use strict";
   if (document.querySelector(".box#page-500")) {
     const style = document.createElement("style");
-    style.id = "scratch-2.0-maintenance-pages-to-3.0-maintenance-pages-discussion-forums-only";
+    style.id = "scratch-2.0-maintenance-pages-to-3.0-maintenance-pages-misc";
     style.setAttribute("data-is-tampermonkey-added-style", true);
     style.setAttribute("data-tampermonkey-script-name", "Scratch 2.0 Maintenance Pages → 3.0 Maintenance Pages (Discussion Forums Only)");
     style.innerHTML = `
