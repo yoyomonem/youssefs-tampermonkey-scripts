@@ -29,6 +29,7 @@
         background: rgb(245, 149, 51);
         height: 100vh;
         margin: 0;
+        font-family: Arial, sans-serif;
       }
     `;
     document.body.appendChild(style);
